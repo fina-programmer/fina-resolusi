@@ -4,6 +4,8 @@ Rencana konten Fina
   *ES6
   *Framework
 
+- Struktur Data Dasar
+- Algoritma dan Pemograman
 - Python
 - MySql
 - Linux
