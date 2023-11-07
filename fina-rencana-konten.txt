@@ -1,14 +1,19 @@
-Rencana konten Fina
+$ Rencana konten Fina
 
 - javascript
   *ES6
   *Framework
-   ~ Angular
    ~ React
    ~ Express
+   ~ Node.js
+   ~ Vue JS
 
+- Struktur Data
 - Algoritma dan Pemograman
 - Python
+  *Framework
+   ~ Django
+
 - MySql
 
 - Linux
