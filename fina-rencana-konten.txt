@@ -3,10 +3,15 @@ Rencana konten Fina
 - javascript
   *ES6
   *Framework
+   ~ Angular
+   ~ React
+   ~ Express
 
-- Struktur Data Dasar
 - Algoritma dan Pemograman
 - Python
 - MySql
+
 - Linux
+  ~ Ubuntu
+
 - Java
