@@ -4,6 +4,7 @@ Rencana konten Fina
   *ES6
   *Framework
    ~ React JS
+   ~ Node.js
    ~ Vue JS
 
 - Struktur Data Dasar
