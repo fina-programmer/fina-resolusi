@@ -8,6 +8,7 @@ $ Rencana konten Fina
    ~ Node.js
    ~ Vue JS
 
+~ Menambahkan CCNA
 - Struktur Data
 - Algoritma dan Pemograman
 - Python
@@ -19,4 +20,7 @@ $ Rencana konten Fina
 - Linux
   ~ Ubuntu
 
+~ Power shell
+
 - Java
+- Exel
